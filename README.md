@@ -1,0 +1,2 @@
+# Interactive-Dashboard-for-Build-Block-Enterprises
+Excel Dashboard: Building Blocks Sales &amp; Volume in South America  This project features a dynamic Excel dashboard that visualizes sales and volume data for Building Blocks across South America. The dashboard includes interactive charts and KPIs, enabling users to explore regional performance, compare metrics, and gain insights into market trends.
